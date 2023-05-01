@@ -1,4 +1,4 @@
-# CCBackendDev
+# CC-FullStackDev
 To keep and submit assignment for CCBackendDevlopers.
 This is a repo cretaed to organise our works.
 
